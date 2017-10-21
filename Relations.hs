@@ -1,6 +1,7 @@
 module Relations where
 
 import Data.List
+import Math
 
 type Rel a = [(a,a)]
 
